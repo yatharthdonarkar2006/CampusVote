@@ -279,4 +279,4 @@ For support and questions:
 
 ---
 
-**Built with ❤️ for better democracy and campus engagement**
+**Built by Team TechHexa for better democracy and campus engagement**
